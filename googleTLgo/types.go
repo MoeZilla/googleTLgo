@@ -7,6 +7,3 @@ type TranslateHelper struct {
 	MainLang string
 	Lang string
 }
-
-type TLHelper []interface{}
-
